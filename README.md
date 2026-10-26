@@ -1,0 +1,2 @@
+# Facial-Emotion-Detection-Recognition-System-Project
+This project aims to develop an AI-based web application that detects and recognizes facial emotions in real time using Machine Learning, Deep Learning, and OpenCV. Users can  upload facial images to identify emotions such as Happy, Sad, Angry, Fear, Surprise, Disgust, and Neutral, along with confidence scores through a user-friendly interface.
